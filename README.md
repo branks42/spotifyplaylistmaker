@@ -1,2 +1,2 @@
 # javascriptplaylistmaker
-Javascript Playlist Maker/Still in development
+Javascript Playlist Maker/Need to update Spotify API
